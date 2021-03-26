@@ -4,15 +4,12 @@ var createChessTable = function (rows,cols){
 	var table = '<table>' ;
 
 	if (i < rows){
-		
+
 	}
 
-} 
+}
 
 
 chessTable = createChessTable (4,4);
 
 document.getElementById('container').innerHTML = chessTable;
-
-
-
